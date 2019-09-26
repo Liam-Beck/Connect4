@@ -95,7 +95,7 @@ class Main:
   def restart_button(self):
     self.restart = pygame.Rect(20, 30, 80, 40)
     pygame.draw.rect(screen, COLOR_RESTART, self.restart) 
-    font = pygame.font.Font("font/font.ttf", 28)
+    font = pygame.font.Font("font.ttf", 28)
     textsurface = font.render('Restart', False, BLACK)
     screen.blit(textsurface, (25, 35))
 
