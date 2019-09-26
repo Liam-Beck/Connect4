@@ -157,7 +157,7 @@ class Process:
     pygame.display.update()
 
   def text(self):
-    font = pygame.font.Font("font/font.ttf", 30)
+    font = pygame.font.Font("font.ttf", 30)
     text_player1 = 'Player 1'
     text_player2 = 'Player 2'
 
@@ -305,7 +305,7 @@ class CheckWin:
       self.Not_Won = False
 
   def print_results(self, player):
-    font = pygame.font.Font("font/font.ttf", 25)
+    font = pygame.font.Font("font.ttf", 25)
     text = 'Congratulation! ' + player + ' has won the match!'   
     
     pygame.draw.rect(screen, COLOR_BACKGROUND,(270,0,500,100))
