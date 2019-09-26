@@ -1,5 +1,4 @@
-## Connect4
-## Game written with Python (Pygame)
+## Connect4 written with Python (Pygame)
 
 ## Information
 
