@@ -13,9 +13,11 @@ If you want to give me feedback or write sth. else please write an email to liam
 - [Python] (https://www.python.org/)
 - [Pygame] (https://www.pygame.org/docs/)
 
-## Branch Developing
-In developing branch I am trying to add a multiplayer mode. Let's see when it get finished....
+<b>In Process: </b>
+In developing branch I am trying to add a multiplayer mode. Let's see when it gets finished....
 
-![alt text](images/image1.png "Description goes here")
-![alt text](images/image2.png "Description goes here")
+## Images
+![alt text](images/image2.png "Beginning")
+![alt text](images/image1.png "Win")
+
 
