@@ -243,13 +243,13 @@ class CheckWin:
         if start >= 0:
           try:
             string += str(fields[j][start])
-            print(string)
+            # print(string)
             
           except IndexError:
             string2 = ''
             string2 = string
             string = ''
-            print(string2)
+            # print(string2)
             
           self.check_win(string, string2)
           start -= 1
