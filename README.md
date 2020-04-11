@@ -18,6 +18,7 @@ In developing branch I am trying to add a multiplayer mode. Let's see when it ge
 
 ## Images
 ![alt text](images/image2.png "Beginning")
+
 ![alt text](images/image1.png "Win")
 
 
